@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1033244301404",
+    "firebase_url": "https://witcom-ea50d.firebaseio.com",
+    "project_id": "witcom-ea50d",
+    "storage_bucket": "witcom-ea50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033244301404:android:5882a2660f93e0f1",
+        "android_client_info": {
+          "package_name": "com.upiita.witcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033244301404-ictv0v1lq3hh0fp5bpkpkhlkmoopnv3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upiita.witcom",
+            "certificate_hash": "B24F5A6027401F19EDEB38ACC8C17180D5D06F0C"
+          }
+        },
+        {
+          "client_id": "1033244301404-smfn9ec387gcat9ae0h9val2cad1g0ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDec92m1YOirZ_ozJrGr6B4dbc_m9X3074"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033244301404-smfn9ec387gcat9ae0h9val2cad1g0ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

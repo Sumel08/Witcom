@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.upiita.witcom.pager.WitcomPagerActivity">
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/update"
+        android:orderInCategory="100"
+        android:title="@string/update"
+        android:showAsAction="never" />
+</menu>
